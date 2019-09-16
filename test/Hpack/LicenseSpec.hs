@@ -6,7 +6,7 @@ import           Data.Maybe
 import           Data.String.Interpolate
 
 import           Distribution.Pretty (prettyShow)
-import           Distribution.Parsec.Class (simpleParsec)
+import           Distribution.Parsec (simpleParsec)
 import qualified Distribution.License as Cabal
 
 import           Hpack.License

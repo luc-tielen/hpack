@@ -34,7 +34,7 @@ import           Text.PrettyPrint (renderStyle, Style(..), Mode(..))
 import           Distribution.Version (VersionRangeF(..))
 import qualified Distribution.Text as D
 import qualified Distribution.Version as D
-import qualified Distribution.Parsec.Class as D
+import qualified Distribution.Parsec as D
 
 import           Data.Aeson.Config.FromValue
 
